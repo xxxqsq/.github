@@ -1,2 +1,2 @@
-# xxxqsq
-readme file
+# gamers
+welcome to my org
