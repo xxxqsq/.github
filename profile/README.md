@@ -1,7 +1,7 @@
-# gamer queen's public github organization
-fecal funny
+# gamer queen's
+public github org for the gamer queen's restoreaunt chain, which is going to host like on(1) npm package if(when) i('m) finished writing it.
 <!--
-
+(no i'm not going to remove this comoment)
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
