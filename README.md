@@ -1,2 +1,2 @@
-# gamers
-welcome to my org
+# .github
+fecal funny
