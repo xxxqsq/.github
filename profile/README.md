@@ -1,12 +1,2 @@
 # gamer queen's
-public github org for the gamer queen's restoreaunt chain, which is going to host like on(1) npm package if(when) i('m) finished writing it.
-<!--
-(no i'm not going to remove this comoment)
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+public github org for the gamerqueen's restoreaunt chain, which is going to host like one(1) npm package if(when) i('m) finished writing it.
