@@ -1,3 +1,6 @@
+unfortunately because gh is forcing 2fa down my throat i'm moving this fecal funny somewhere else. sorz past me ;~;
+--
+
 # gamerqueen's
 public github org for the gamerqueen's restoreaunt chain.
 
